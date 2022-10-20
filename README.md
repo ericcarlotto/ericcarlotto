@@ -1,4 +1,4 @@
-## Seja bem vindo, eu sou o Eric Carlotto, Desenvolvedor Full-stack Typescript|React|Mongo na Villela Brasil!
+## Seja bem vindo, eu sou o Eric Carlotto, Desenvolvedor Full-stack na Villela Brasil!
 
 ## [Meu Portfólio](https://www.linkedin.com/in/eric-carlotto-457996154/)
 
