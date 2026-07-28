@@ -3,16 +3,16 @@
 **Software Engineer · Tech Lead · Full Stack & Frontend**  
 React · TypeScript · Next.js · React Native · Node.js · NestJS
 
-Bacharel em Sistemas de Informação pela **PUCRS** · Desenvolvedor desde **2017**  
-Aberto a oportunidades **remotas** (Frontend · Full Stack · Software Engineer · Tech Lead)
+Bachelor's in Information Systems (PUCRS) · Building software since **2017**  
+Open to **remote** roles (Frontend · Full Stack · Software Engineer · Tech Lead)
 
 ---
 
-### About me / Sobre mim
+### About me
 
-Software Engineer with solid experience in **Frontend**, **Full Stack** and **Mobile**, acting as **Tech Lead** on complex projects — architecture decisions, delivery ownership and mentoring teams.
+Software Engineer with solid experience in **Frontend**, **Full Stack**, and **Mobile**, acting as **Tech Lead** on complex projects — architecture decisions, delivery ownership, and mentoring teams.
 
-Maior impacto recente: liderança da migração de plataforma legada para **React / Next.js**, reduzindo custos de manutenção em **82%**, e do app mobile **Operador RPPA** (React Native) — **3 versões** para **500+ usuários**.
+Recent impact: led a legacy platform migration to **React / Next.js**, reducing maintenance costs by **82%**, and shipped the corporate mobile app **Operador RPPA** (React Native) — **3 releases** to **500+ users**.
 
 ---
 
@@ -33,7 +33,7 @@ Maior impacto recente: liderança da migração de plataforma legada para **Reac
 
 - **Tech Lead @ Quattrus** — architecture standards, mentorship, Scrum with a team of **12** developers  
 - **Software Engineer @ Villela Brasil Bank** — digital products impacting **5,000+** users  
-- Collaboration with Product, Design and Engineering · Git / Gitflow · clean code culture
+- Collaboration with Product, Design, and Engineering · Git / Gitflow · clean code culture
 
 ---
 
@@ -51,7 +51,7 @@ Maior impacto recente: liderança da migração de plataforma legada para **Reac
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/eric-carlotto-457996154/)
 - ✉️ carlottoti@gmail.com
-- 📍 Imbituba, SC · Remote-friendly
+- 📍 Imbituba, Brazil · Remote-friendly
 
 ---
 
@@ -60,6 +60,6 @@ Maior impacto recente: liderança da migração de plataforma legada para **Reac
 
 <br/>
 
-`Software Engineer` · `Tech Lead` · `Frontend Developer` · `Full Stack Developer` · `React` · `React.js` · `Next.js` · `React Native` · `TypeScript` · `JavaScript` · `Node.js` · `NestJS` · `REST API` · `GraphQL` · `Docker` · `AWS` · `PostgreSQL` · `MongoDB` · `SQL` · `NoSQL` · `Scrum` · `Agile` · `CI/CD` · `Desenvolvedor Full Stack` · `Desenvolvedor Front-end` · `Líder Técnico`
+`Software Engineer` · `Tech Lead` · `Frontend Developer` · `Full Stack Developer` · `React` · `React.js` · `Next.js` · `React Native` · `TypeScript` · `JavaScript` · `Node.js` · `NestJS` · `REST API` · `GraphQL` · `Docker` · `AWS` · `PostgreSQL` · `MongoDB` · `SQL` · `NoSQL` · `Scrum` · `Agile` · `CI/CD`
 
 </details>
