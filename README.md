@@ -12,7 +12,7 @@ Open to **remote** roles (Frontend · Full Stack · Software Engineer · Tech Le
 
 Software Engineer with solid experience in **Frontend**, **Full Stack**, and **Mobile**, acting as **Tech Lead** on complex projects — architecture decisions, delivery ownership, and mentoring teams.
 
-Recent impact: led a legacy platform migration to **React / Next.js**, reducing maintenance costs by **82%**, and shipped the corporate mobile app **Operador RPPA** (React Native) — **3 releases** to **500+ users**.
+Recent impact: led a legacy platform migration to **React / Next.js**, and shipped the corporate mobile app **Operador RPPA** (React Native) — **3 releases** to **500+ users**.
 
 ---
 
