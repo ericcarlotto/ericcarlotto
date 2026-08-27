@@ -49,8 +49,7 @@ Software Engineer with solid experience in **Frontend**, **Full Stack**, and **M
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/eric-carlotto-457996154/)
 - ✉️ carlottoti@gmail.com
-- 📍 Imbituba, Brazil · Remote-friendly
-
+- 📍 Imbituba, Brazil · Remote only
 ---
 
 <details>
